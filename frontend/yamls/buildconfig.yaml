@@ -15,7 +15,7 @@ spec:
   source:
     git:
       ref: main
-      uri: https://github.com/nerdingitout/serverless-sentiment
+      uri: https://github.com/meernasserali-cts/serverless-sentiment
     type: Git
     contextDir: "frontend"
   strategy:
